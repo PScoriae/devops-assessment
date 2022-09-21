@@ -1,0 +1,1 @@
+Answers for DevOps Assessment are available in the [answers.docx](https://github.com/PScoriae/devops-assessment/blob/main/answers.docx) file.
